@@ -1,10 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<!DOCTYPE html>
+<html>
+<head>
 <title>Hoola</title>
 	<h1>Halo</h1>
-	<link rel="stylesheet" href="css/css.css">
-	<script src="js/codigocss.js"></script>
+	<link rel="stylesheet" href="../codigfo/css.css">
+	<script src="../codigfo/js/codigocss.js"></script>
 </head>
 <body>
 <h2>numero al azar</h2>
@@ -25,4 +28,12 @@ onclick="document.getElementById('piedras').innerHTML = Juego()">
 
 <p>:D</p>
 </body>gfhgfhgf
+</html>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+</head>
+<body>
+
+</body>
 </html>
